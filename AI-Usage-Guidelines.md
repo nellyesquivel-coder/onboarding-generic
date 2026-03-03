@@ -14,5 +14,13 @@ Use it as a tool for clarity.
 Don't depend on it.
 Analyze whether what I have requested is correct.
 
+## 4 Attachments 
+
+<img width="894" height="604" alt="Captura de pantalla 2026-03-03 101615" src="https://github.com/user-attachments/assets/b3d48e95-65c2-48ff-b002-649160abd384" />
+
+
+<img width="855" height="555" alt="Captura de pantalla 2026-03-03 102037" src="https://github.com/user-attachments/assets/dd12515e-c4b0-4b27-b49f-860c2d53d6ab" />
+
+
 
 Add AI usage reflection and best practice
