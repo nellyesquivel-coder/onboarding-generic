@@ -21,3 +21,4 @@
   - One relatable or funny moment that shows personality
   - One motivational or uplifting quote or story
 - [ ] Share them with your **supervisor for review and feedback**.
+      
