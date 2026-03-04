@@ -15,3 +15,4 @@
 - [ ] Plan a **short (15-30 second) video concept** in Google Docs.  
 - [ ] Record and edit the video using **Canva or another video tool**.  
 - [ ] Share the video with your **supervisor for feedback**.  
+
