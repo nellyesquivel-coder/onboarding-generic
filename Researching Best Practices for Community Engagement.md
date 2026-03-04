@@ -15,3 +15,4 @@
 - [ ] Create a **list of three engagement strategies** Focus Bear should experiment with.  
 - [ ] Draft **two interactive post ideas** (polls, Q&As, user-generated content).  
 - [ ] Share your suggestions with your **supervisor for feedback**.
+
