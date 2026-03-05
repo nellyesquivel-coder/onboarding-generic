@@ -32,8 +32,8 @@ All meetings will be held in El Salvador time (GMT-6).
 | Time | Activity |
 |------|----------|
 | 10:00 – 12:00 | Deep focus block (analysis, strategic writing, proposal development) |
-| 12:00 – 1:00 | Lunch break |
-| 1:00 – 3:00 | Operational work (documentation, implementation, follow-up) |
+| 12:00 – 12:30 | Lunch break |
+| 12:30 – 3:00 | Operational work (documentation, implementation, follow-up) |
 | 3:00 – 3:15 | Short break |
 | 3:15 – 5:30 | Development / research block |
 | 5:30 – 6:00 | Organization and end-of-day review |
@@ -45,8 +45,8 @@ All meetings will be held in El Salvador time (GMT-6).
 | Time | Activity |
 |------|----------|
 | 10:00 – 12:00 | Deep focus block |
-| 12:00 – 1:00 | Lunch break |
-| 1:00 – 2:30 | Operational work |
+| 12:00 – 12:30 | Lunch break |
+| 12:30 – 2:30 | Operational work |
 | 2:30 – 3:30 | Weekly team meeting |
 | 3:30 – 5:30 | Development block |
 | 5:30 – 6:00 | Planning and wrap-up |
@@ -58,8 +58,8 @@ All meetings will be held in El Salvador time (GMT-6).
 | Time | Activity |
 |------|----------|
 | 10:00 – 12:00 | Deep focus block |
-| 12:00 – 1:00 | Lunch break |
-| 1:00 – 3:30 | Operational work / research |
+| 12:00 – 12:30| Lunch break |
+| 12:30 – 3:30 | Operational work / research |
 | 3:30 – 4:00 | Follow-up meeting |
 | 4:00 – 5:30 | Execution block |
 | 5:30 – 6:00 | End-of-day review |
